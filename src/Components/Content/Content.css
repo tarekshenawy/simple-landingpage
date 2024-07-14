@@ -1,0 +1,49 @@
+
+.container{
+    padding-left: 5%;
+    position: absolute;
+    top:40%;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+
+  
+}
+.content ul{
+    display: flex;
+    margin-top: 20px;
+}
+.content ul li{
+    list-style: none;
+    margin: 10px;
+    cursor: pointer;
+}
+.content p{
+    color:#fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.content button{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    align-items: center;
+    cursor: pointer;
+}
+.content button img{
+    width: 25px;
+}
+.playvideo img {
+    width: 50px;
+    cursor: pointer;
+    margin-top: 180px;
+}
+
+
+
